@@ -1,0 +1,41 @@
+Baixe o Git Bash pelo site ;
+https://git-scm.com/download/win
+
+Abra sua conta em ;
+https://github.com/
+
+Para acrescenar um repositorio em github.com ao seu repositorio local;
+
+Log em sua area dentro do Github.com
+Clique em seus repositorios passando o mouse em cima da sua foto.
+Procurar o botao Novo em verd, clique no botao e crie seu repositorio, no campo nome do repositorio;
+Tutorial-De-Como Atualizar e Sincronziar Git Hub
+Deixe a caixinha escrita Publico Ativado
+Deixe Adicionar um arquivo README ativado
+E clique em criar repositorio em verde.
+Pronto você criou seu primeiro repositorio no Git Hub
+
+
+
+Para copiar o repositorio criado ao seu repositorio local;
+
+Dentro da area seus repositorios em github.com clique em cima do nome do repositorio criado 
+Tutorial-De-Como Atualizar e Sincronziar Git Hub
+Ao Lado direito na parte de cima clique no campo codigo em verde e copie o link em HTTPS.
+
+Abra o Git Bash em cima da pasta aonde esta armazenado o seu arquivo local de desejo, clique com o botao direito e clique em Guit Bash Here 
+ja abrira o guit em com sua pasta local selecionada;
+Com o comando 
+git clone https://github.com/viniciustraderxp/Tutorial-De-Como-Atualizar-e-Sincronziar-Git-Hub.git  // ressalto que o comando git clone vem acompanhando com o link que vc copiou no Git hub//
+Voce ja conseguirá observar o arquivo do git hub em sua pasta local um arquivo README
+
+
+
+
+
+
+
+
+
+
+
